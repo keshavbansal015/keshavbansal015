@@ -35,6 +35,6 @@ me.say_hi()
 
 <details>
   <summary><b>Get in touch with me</b></summary>
-  <a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" width="20"/></a>
-  <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" width="20"/></a>
+  <a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" height="20"/></a>
+  <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" height="20"/></a>
 </details>
