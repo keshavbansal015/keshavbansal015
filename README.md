@@ -1,6 +1,7 @@
-# Hello there 👋
-
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+####
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=keshavbansal015.keshavbansal015)
+####
 
 ```python
 #!/usr/bin/python
@@ -23,18 +24,17 @@ me.say_hi()
 ```
 
 ## 📝 Blogs
+- [Personal website and blog](https://keshavbansal015.github.io/)
 
-- Personal website and blog: https://keshavbansal015.github.io/
-- Notes of AWS Cloud Practitioner: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
-<!-- - [WIP] LeetCode Solutions & Notes: https://keshavbansal015.github.io/leetcode/ -->
+### Latest Blogs:
+- [Static website on AWS](https://keshavbansal015.github.io/static-website-aws)
 
-<!-- ### 📔 Latest Blog posts -->
+<!-- - Notes of AWS Cloud Practitioner: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes -->
 
-<!-- BLOG-POST-LIST:START  -->
-<!-- - [Java Concurrent Programming 1 - Fundamentals](https://keshavbansal015.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://keshavbansal015.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://keshavbansal015.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://keshavbansal015.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://keshavbansal015.github.io/blog/2022/05/03/java-best-practices-logging.html) -->
-<!-- BLOG-POST-LIST:END -->
+###
 
+<details>
+  <summary><b>Get in touch with me</b></summary>
+  <a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" width="20"/></a>
+  <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" width="20"/></a>
+</details>
