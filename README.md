@@ -32,9 +32,5 @@ me.say_hi()
 <!-- - Notes of AWS Cloud Practitioner: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes -->
 
 ###
-
-<details>
-  <summary><b>Get in touch with me</b></summary>
-  <a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" height="20"/></a>
-  <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" height="20"/></a>
-</details>
+#### Get in touch with me
+<a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" height="20"/></a> <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" height="20"/></a>
