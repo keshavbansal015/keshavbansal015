@@ -24,6 +24,7 @@ me.say_hi()
 ```
 
 ## 📝 Blogs
+- [Annotations in Java](https://keshavbansal015.github.io/java-annotations)
 - [Personal website and blog](https://keshavbansal015.github.io/)
 
 ### Latest Blogs:
