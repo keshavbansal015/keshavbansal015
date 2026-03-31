@@ -5,8 +5,6 @@
 
 ```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class SoftwareEngineer:
 
@@ -22,16 +20,4 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-## 📝 Blogs
-- [Annotations in Java](https://keshavbansal015.github.io/java-annotations)
-- [Personal website and blog](https://keshavbansal015.github.io/)
-
-### Latest Blogs:
-- [Static website on AWS](https://keshavbansal015.github.io/static-website-aws)
-
-<!-- - Notes of AWS Cloud Practitioner: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes -->
-
-###
-#### Get in touch with me
-<a href="https://www.linkedin.com/in/keshav-bansal-015/"> <img src="/images/Linkedin.png" alt="Linkedin" height="20"/></a> <a href="https://twitter.com/KxBBB015"> <img src="/images/X.png" alt="X" height="20"/></a>
+#### Open for work, lets get in touch :)
