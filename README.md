@@ -2,4 +2,4 @@
 
 Software Engineer.
 
-Open to work.
+Looking for work.
